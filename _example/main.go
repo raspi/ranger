@@ -1,12 +1,3 @@
-# ranger
-
-Generate number ranges from given numbers.
-
-For example: **1,2,3,5** generates **1-3,5-5**.
-
-## Example
-
-```go
 package main
 
 import (
@@ -26,15 +17,3 @@ func main() {
 		fmt.Printf(`%v - %v`+"\n", r.Start, r.End)
 	}
 }
-```
-
-Outputs:
-
-```
--1 - 1
-3 - 5
-10 - 15
-20 - 21
-24 - 25
-30 - 30
-```
