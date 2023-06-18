@@ -1,5 +1,10 @@
 # ranger
 
+![GitHub All Releases](https://img.shields.io/github/downloads/raspi/ranger/total?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/raspi/ranger?style=for-the-badge)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/raspi/ranger?style=for-the-badge)
+[![Go Report Card](https://goreportcard.com/badge/github.com/raspi/ranger)](https://goreportcard.com/report/github.com/raspi/ranger)
+
 Generate number ranges from given numbers.
 
 For example: **1,2,3,5** generates **1-3,5-5**.
